@@ -1,0 +1,12 @@
+{
+  "name": "create-a-real-estate-listing-site-with-property-search-kufpwe",
+  "version": "1.0.0",
+  "description": "Generated project for create-a-real-estate-listing-site-with-property-search-kufpwe",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
